@@ -1,0 +1,52 @@
+Helana, Montana          	to	Bismarck, North Dakota   	876 km
+Bismarck, North Dakota   	to	Pierre, South Dakota     	495 km
+Pierre, South Dakota     	to	Topeka, Kansas           	706 km
+Topeka, Kansas           	to	Jefferson City, Missouri 	307 km
+Jefferson City, Missouri 	to	Springfield, Illinois    	256 km
+Springfield, Illinois    	to	Nashville, Tennessee     	474 km
+Nashville, Tennessee     	to	Little Rock, Arkansas    	526 km
+Little Rock, Arkansas    	to	Oklahoma City, Oklahoma  	480 km
+Oklahoma City, Oklahoma  	to	Austin, Texas            	580 km
+Austin, Texas            	to	Baton Rouge, Louisiana   	634 km
+Baton Rouge, Louisiana   	to	Jackson, Mississippi     	225 km
+Jackson, Mississippi     	to	Montgomery, Alabama      	369 km
+Montgomery, Alabama      	to	Tallahassee, Florida     	285 km
+Tallahassee, Florida     	to	Atlanta, Georgia         	368 km
+Atlanta, Georgia         	to	Columbia, South Carolina 	310 km
+Columbia, South Carolina 	to	Raleigh, North Carolina  	294 km
+Raleigh, North Carolina  	to	Richmond, Virginia       	223 km
+Richmond, Virginia       	to	Annapolis, Maryland      	179 km
+Annapolis, Maryland      	to	Dover, Delaware          	86 km
+Dover, Delaware          	to	Trenton, New Jersey      	135 km
+Trenton, New Jersey      	to	Hartford, Connecticut    	244 km
+Hartford, Connecticut    	to	Providence, Rhode Island 	104 km
+Providence, Rhode Island 	to	Boston, Massachusetts    	56 km
+Boston, Massachusetts    	to	Concord, New Hampshire   	117 km
+Concord, New Hampshire   	to	Augusta, Maine           	188 km
+Augusta, Maine           	to	Montpelier, Vermont      	223 km
+Montpelier, Vermont      	to	Albany, New York         	203 km
+Albany, New York         	to	Harrisburg, Pennsylvania 	370 km
+Harrisburg, Pennsylvania 	to	Charleston, West Virginia	461 km
+Charleston, West Virginia	to	Columbus, Ohio           	214 km
+Columbus, Ohio           	to	Frankfort, Kentucky      	253 km
+Frankfort, Kentucky      	to	Indianapolis, Indiana    	209 km
+Indianapolis, Indiana    	to	Lansing, Michigan        	353 km
+Lansing, Michigan        	to	Madison, Wisconsin       	395 km
+Madison, Wisconsin       	to	Saint Paul, Minnesota    	362 km
+Saint Paul, Minnesota    	to	Des Moines, Iowa         	375 km
+Des Moines, Iowa         	to	Lincoln, Nebraska        	269 km
+Lincoln, Nebraska        	to	Cheyenne, Wyoming        	682 km
+Cheyenne, Wyoming        	to	Denver, Colorado         	157 km
+Denver, Colorado         	to	Santa Fe, New Mexico     	460 km
+Santa Fe, New Mexico     	to	Phoenix, Arizona         	611 km
+Phoenix, Arizona         	to	Salt Lake City, Utah     	812 km
+Salt Lake City, Utah     	to	Carson City, Nevada      	692 km
+Carson City, Nevada      	to	Sacramento, California   	163 km
+Sacramento, California   	to	Honolulu, Hawaii         	3957 km
+Honolulu, Hawaii         	to	Juneau, Alaska           	4522 km
+Juneau, Alaska           	to	Olympia, Washington      	1469 km
+Olympia, Washington      	to	Salem, Oregon            	235 km
+Salem, Oregon            	to	Boise, Idaho             	560 km
+Boise, Idaho             	to	Helana, Montana          	468 km
+
+total: 26992 km
