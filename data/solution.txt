@@ -1,18 +1,15 @@
-Helana, Montana          	to	Bismarck, North Dakota   	876 km
-Bismarck, North Dakota   	to	Pierre, South Dakota     	495 km
-Pierre, South Dakota     	to	Topeka, Kansas           	706 km
-Topeka, Kansas           	to	Jefferson City, Missouri 	307 km
-Jefferson City, Missouri 	to	Springfield, Illinois    	256 km
-Springfield, Illinois    	to	Nashville, Tennessee     	474 km
-Nashville, Tennessee     	to	Little Rock, Arkansas    	526 km
-Little Rock, Arkansas    	to	Oklahoma City, Oklahoma  	480 km
+Pierre, South Dakota     	to	Lincoln, Nebraska        	496 km
+Lincoln, Nebraska        	to	Topeka, Kansas           	213 km
+Topeka, Kansas           	to	Oklahoma City, Oklahoma  	427 km
 Oklahoma City, Oklahoma  	to	Austin, Texas            	580 km
 Austin, Texas            	to	Baton Rouge, Louisiana   	634 km
 Baton Rouge, Louisiana   	to	Jackson, Mississippi     	225 km
-Jackson, Mississippi     	to	Montgomery, Alabama      	369 km
+Jackson, Mississippi     	to	Little Rock, Arkansas    	333 km
+Little Rock, Arkansas    	to	Nashville, Tennessee     	526 km
+Nashville, Tennessee     	to	Atlanta, Georgia         	345 km
+Atlanta, Georgia         	to	Montgomery, Alabama      	234 km
 Montgomery, Alabama      	to	Tallahassee, Florida     	285 km
-Tallahassee, Florida     	to	Atlanta, Georgia         	368 km
-Atlanta, Georgia         	to	Columbia, South Carolina 	310 km
+Tallahassee, Florida     	to	Columbia, South Carolina 	498 km
 Columbia, South Carolina 	to	Raleigh, North Carolina  	294 km
 Raleigh, North Carolina  	to	Richmond, Virginia       	223 km
 Richmond, Virginia       	to	Annapolis, Maryland      	179 km
@@ -32,21 +29,24 @@ Columbus, Ohio           	to	Frankfort, Kentucky      	253 km
 Frankfort, Kentucky      	to	Indianapolis, Indiana    	209 km
 Indianapolis, Indiana    	to	Lansing, Michigan        	353 km
 Lansing, Michigan        	to	Madison, Wisconsin       	395 km
-Madison, Wisconsin       	to	Saint Paul, Minnesota    	362 km
-Saint Paul, Minnesota    	to	Des Moines, Iowa         	375 km
-Des Moines, Iowa         	to	Lincoln, Nebraska        	269 km
-Lincoln, Nebraska        	to	Cheyenne, Wyoming        	682 km
-Cheyenne, Wyoming        	to	Denver, Colorado         	157 km
-Denver, Colorado         	to	Santa Fe, New Mexico     	460 km
-Santa Fe, New Mexico     	to	Phoenix, Arizona         	611 km
-Phoenix, Arizona         	to	Salt Lake City, Utah     	812 km
-Salt Lake City, Utah     	to	Carson City, Nevada      	692 km
-Carson City, Nevada      	to	Sacramento, California   	163 km
-Sacramento, California   	to	Honolulu, Hawaii         	3957 km
-Honolulu, Hawaii         	to	Juneau, Alaska           	4522 km
-Juneau, Alaska           	to	Olympia, Washington      	1469 km
-Olympia, Washington      	to	Salem, Oregon            	235 km
-Salem, Oregon            	to	Boise, Idaho             	560 km
-Boise, Idaho             	to	Helana, Montana          	468 km
+Madison, Wisconsin       	to	Springfield, Illinois    	366 km
+Springfield, Illinois    	to	Jefferson City, Missouri 	256 km
+Jefferson City, Missouri 	to	Des Moines, Iowa         	356 km
+Des Moines, Iowa         	to	Saint Paul, Minnesota    	375 km
+Saint Paul, Minnesota    	to	Bismarck, North Dakota   	724 km
+Bismarck, North Dakota   	to	Helana, Montana          	876 km
+Helana, Montana          	to	Boise, Idaho             	468 km
+Boise, Idaho             	to	Salem, Oregon            	560 km
+Salem, Oregon            	to	Olympia, Washington      	235 km
+Olympia, Washington      	to	Juneau, Alaska           	1469 km
+Juneau, Alaska           	to	Honolulu, Hawaii         	4522 km
+Honolulu, Hawaii         	to	Sacramento, California   	3957 km
+Sacramento, California   	to	Carson City, Nevada      	163 km
+Carson City, Nevada      	to	Salt Lake City, Utah     	692 km
+Salt Lake City, Utah     	to	Phoenix, Arizona         	812 km
+Phoenix, Arizona         	to	Santa Fe, New Mexico     	611 km
+Santa Fe, New Mexico     	to	Denver, Colorado         	460 km
+Denver, Colorado         	to	Cheyenne, Wyoming        	157 km
+Cheyenne, Wyoming        	to	Pierre, South Dakota     	511 km
 
-total: 26992 km
+total: 26673 km
